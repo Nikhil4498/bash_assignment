@@ -84,8 +84,3 @@ This assignment tests proficiency in writing and understanding Bash scripts. The
       ```bash
       ./simple_calculator.sh
       ```
-
-## Installation
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/bash_assignment.git
